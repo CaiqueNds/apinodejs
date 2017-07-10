@@ -14,7 +14,9 @@ Após instalar as dependências deve executar por linha de comando "node server"
 
 e o serviço da api estará ativado na porta 8080
 
-- Essa api possui 3 rotas
+
+
+Essa api possui 3 rotas
 
 - login:
 
