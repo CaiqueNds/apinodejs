@@ -6,11 +6,11 @@ Teste para Developer FCamera
 
 - Procedimento para instalar a api:
 
-Ao baixar os fontes deve executar o node js 
+Ao baixar os fontes deve abir o nodejs 
 
-Executar npm install na pasta que os fontes foram baixados para incluir as dependências
+Executar pro linha de comando "npm install" na pasta que os fontes foram baixados para incluir as dependências
 
-Após instalar as dependências deve executar node server
+Após instalar as dependências deve executar por linha de comando "node server"
 
 e o serviço da api estará ativado na porta 8080
 
