@@ -1,10 +1,6 @@
-# README #
+# Teste para Developer FCamera #
 
-### What is this repository for? ###
-
-## Teste para Developer FCamera ##
-
-- Procedimento para instalar a api:
+## Procedimento para instalar a api ##
 
 Ao baixar os fontes deve abrir o nodejs 
 
@@ -18,14 +14,14 @@ e o serviço da api estará ativado na porta 8080
 
 ## Essa api possui 3 rotas ##
 
-- login:
+### login: ###
 
 method: post
 
 Rota disponível para validação do login. 
 Se os parâmetros de username e password estiverem corretos retorna o token para o usuário
 
-- usuarios:
+### usuarios: ###
 
 method: post
 
@@ -35,7 +31,7 @@ method: get
 
 Deve passar no headers o token jwt e então retorna se o token armazenado pelo client ainda está disponível
 
-- produtos:
+### produtos: ###
 
 method: get
 
