@@ -1,11 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 Teste para Developer FCamera
 
+A base de dados estyá hospedada no mlab.com
+Sting de conexão: var db = 'mongodb://caiquenascs:Rano2559@ds151232.mlab.com:51232/fcameracaique';//coloque a url do db aqui
 Essa api possui 3 rotas
 
 - login:
@@ -23,24 +23,3 @@ Deve passar no headers o token jwt e então retorna se o token armazenado pelo c
 - produtos:
 mehotd: get
 Retorna os produtos cadastrados na base de dados do mongodb
-
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
