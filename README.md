@@ -4,7 +4,17 @@
 
 Teste para Developer FCamera
 
-Essa api possui 3 rotas
+- Procedimento para instalar a api:
+
+Ao baixar os fontes deve executar o node js 
+
+Executar npm install na pasta que os fontes foram baixados para incluir as dependências
+
+Após instalar as dependências deve executar node server
+
+e o serviço da api estará ativado na porta 8080
+
+- Essa api possui 3 rotas
 
 - login:
 
