@@ -4,8 +4,6 @@
 
 Teste para Developer FCamera
 
-A base de dados estyá hospedada no mlab.com
-Sting de conexão: var db = 'mongodb://caiquenascs:Rano2559@ds151232.mlab.com:51232/fcameracaique';//coloque a url do db aqui
 Essa api possui 3 rotas
 
 - login:
