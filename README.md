@@ -8,7 +8,7 @@ Teste para Developer FCamera
 
 Ao baixar os fontes deve abrir o nodejs 
 
-Executar pro linha de comando "npm install" na pasta que os fontes foram baixados para incluir as dependências
+Executar por linha de comando "npm install" na pasta que os fontes foram baixados para incluir as dependências
 
 Após instalar as dependências deve executar por linha de comando "node server"
 
