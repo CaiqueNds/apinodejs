@@ -6,7 +6,7 @@ Teste para Developer FCamera
 
 - Procedimento para instalar a api:
 
-Ao baixar os fontes deve abir o nodejs 
+Ao baixar os fontes deve abrir o nodejs 
 
 Executar pro linha de comando "npm install" na pasta que os fontes foram baixados para incluir as dependências
 
